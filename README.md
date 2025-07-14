@@ -1,6 +1,6 @@
 # 📚 Data Science Coursework Projects
 
-This repository contains a collection of Jupyter Notebooks developed as part of a university-level data science curriculum. Each notebook focuses on a different topic in machine learning, image processing, anomaly detection, and missing data imputation.
+This repository contains a collection of Jupyter Notebooks developed as part of a university data science curriculum. Each notebook focuses on a different topic in machine learning, image processing, anomaly detection, and missing data imputation.
 
 ## 📁 Projects
 
